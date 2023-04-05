@@ -76,7 +76,7 @@ params:
   # 是否禁用首页滚动到顶部
   disableScrollToTop: false
   # 是否启用评论系统
-  comments: false
+  comments: true
   # 是否隐藏 Meta 信息
   hidemeta: false
   # 是否隐藏文章摘要
