@@ -159,7 +159,7 @@ params:
 
   # 关联编辑
   editPost:
-    URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/posts'
+    URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/'
     Text: 'Edit on GitHub' # edit text
     appendFilePath: true # to append file path to Edit link
 
