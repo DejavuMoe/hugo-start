@@ -1,4 +1,6 @@
-## Quick Start
+## 快速开始
+
+> https://dejavu.moe/posts/how-i-built-my-personal-blog/
 
 ```bash
 # 克隆本仓库
