@@ -46,7 +46,7 @@ params:
   # keywords: [Blog, Portfolio, PaperMod]
 
   # 网站作者
-  author: 'Your Name'
+  author: '博客作者'
   # 多个作者写法
   # author: ["Me", "You"]
 
@@ -127,7 +127,11 @@ params:
   # 主页 - 信息模式（默认）
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to hugo start, this is a example of Hugo and PaperMod
+    # 下面一行支持 Markdown 写法
+    Content: >
+      - 欢迎来到 [hugo start](https://github.com/DejavuMoe/hugo-start)，这是一个基于 **Hugo** 和 **PaperMod** 的个人博客「脚手架」，如果您想搭建一个个人博客，可以快速地从 ***[这里](https://dejavu.moe/posts/how-i-built-my-personal-blog/)*** 开始。  
+
+      *如果本项目对您有帮助，不妨在本站的文章下面留个言儿，谢谢啦~*
 
   #  主页 - 信息模式 图标展示
   socialIcons:
@@ -160,7 +164,7 @@ params:
   # 关联编辑
   editPost:
     URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/'
-    Text: 'Edit on GitHub' # edit text
+    Text: '在 GitHub 上编辑' # 编辑文本
     appendFilePath: true # to append file path to Edit link
 
   # for search

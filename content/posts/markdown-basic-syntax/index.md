@@ -21,7 +21,7 @@ cover:
 
 > 封面图片 by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/505eectW54k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-更多示例请查看查看 [markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+下面是一些简单的 Markdown 标记语法示例，更多示例请查看 [markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
 ## 标题
 
@@ -121,6 +121,17 @@ cover:
 <i@gmail.com>
 ```
 
+**脚注**
+
+脚注并不是标准的 Markdown 标记语法，它是 Markdown 的拓展语法，但是 Hugo 默认支持它 [^2]
+
+```
+Hugo 默认支持它 [^2]
+
+[^2]: 这是一条脚注
+```
+
 
 
 [^1]: 一级标题是文章的标题（title）
+[^2]: 这是一条脚注
