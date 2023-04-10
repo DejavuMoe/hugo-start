@@ -163,8 +163,8 @@ params:
 
   # 关联编辑
   editPost:
-    URL: 'https://github.com/DejavuMoe/hugo-start/edit/master/content/'
-    Text: '在 GitHub 上编辑' # 编辑文本
+    URL: 'https://github.com/DejavuMoe/hugo-start/blob/master/content/'
+    Text: '查看本文源码' # 编辑文本
     appendFilePath: true # to append file path to Edit link
 
   # for search
