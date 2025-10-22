@@ -129,7 +129,7 @@ params:
     Title: "Hi there \U0001F44B"
     # 下面一行支持 Markdown 写法
     Content: >
-      - 欢迎来到 [hugo start](https://github.com/DejavuMoe/hugo-start)，这是一个基于 **Hugo** 和 **PaperMod** 的个人博客「脚手架」，如果您想搭建一个个人博客，可以快速地从 ***[这里](https://dejavu.moe/posts/how-i-built-my-personal-blog/)*** 开始。  
+      - 欢迎来到 [hugo start](https://github.com/DejavuMoe/hugo-start)，这是一个基于 **Hugo** 和 **PaperMod** 的个人博客「脚手架」，如果您想搭建一个个人博客，可以快速地从 ***[这里](https://blog.dejavu.moe/posts/how-i-built-my-personal-blog/)*** 开始。  
 
       *如果本项目对您有帮助，不妨在本站的文章下面留个言儿，谢谢啦~*
 
